@@ -3,3 +3,4 @@ Fauzan resolusi
 - Bisa keluar dari zona nyaman sebagai pemalu dan si kurang percaya diri
 - Bisa lancar nanti dalam KP dan TA 1nya
 - Minimal bisa bahasa PHP
+- lebih banyak relasi pertemanan lagi aja, jangan terpaku apa apa bisa sendiri 
